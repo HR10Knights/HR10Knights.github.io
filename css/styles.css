@@ -473,11 +473,11 @@ Buttons
     padding: 20px 50px;
     border-radius: 3px;
     background-color: #fff;
-    color: #4b98a9;
+    color: #000000;
     font-size: 16px;
 }
 .use-btn:hover, .use-btn:focus {
-    background-color: #73d0da;
+    background-color: #4CAF50;
     color: #fff;
     text-decoration: none;
 }
@@ -490,8 +490,8 @@ Buttons
     font-size: 16px;
 }
 .learn-btn:hover, .download-btn:hover, .learn-btn:focus, .download-btn:focus {
-    border-color: #73d0da;
-    color: #73d0da;
+    border-color: #4CAF50;
+    color: #4CAF50;
     text-decoration: none;
 }
 .read-more-btn {
@@ -592,7 +592,7 @@ Hero
 }
 .hero h1 span {
     display: inline-block;
-    color: #a1a9b0;
+    color: #4CAF50;
 }
 #home {
     width: 100%;
