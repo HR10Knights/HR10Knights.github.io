@@ -671,7 +671,7 @@ Features Slider
     position: relative;
     padding: 11% 100px 10% 100px;
     height: 400px;
-    background-color: #3F6184;
+    background-color: #4CAF50;
 }
 .features-slider ul {
     margin: 0;
@@ -933,7 +933,7 @@ Download Now
 ========================================================================== */
 .download {
     padding: 120px 0;
-    background-color: #3f6184;
+    background-color: #4CAF50;
 }
 .download h1 {
     margin: 0 0 15px 0;
